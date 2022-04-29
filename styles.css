@@ -1,6 +1,7 @@
 body {
   background-color: lightgray;
   background-image: none;
+  display: none;
 }
 
 table {

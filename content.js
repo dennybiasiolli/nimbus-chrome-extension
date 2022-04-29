@@ -29,6 +29,8 @@ try {
   
   const satImgRow = document.querySelector("body > div > table > tbody > tr > td:nth-child(2) > div:nth-child(1) > table > tbody > tr:nth-child(3) > td > div > table > tbody > tr:nth-child(4)")
   hideElement(satImgRow)
+
+  document.body.style.display = 'unset';
 } catch (error) {
   console.error(error)
   alert(`Oops, qualcosa è andato storto!
