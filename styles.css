@@ -1,0 +1,31 @@
+body {
+  background-color: lightgray;
+  background-image: none;
+}
+
+table {
+  width: 100%;
+  background-color: unset;
+}
+
+td {
+  background-color: unset;
+}
+
+font {
+  color: #004080;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+.title {
+  font-size: 24px;
+}
+
+.subtitle {
+  font-size: 22px;
+}
+
+.date-emitted {
+  font-size: 18px;
+}
