@@ -1,7 +1,7 @@
 {
   "name": "Nimbus - Previsioni con stile",
-  "description": "Migliora la visualizzazione delle previsioni (piemonte per ora)",
-  "version": "0.0.1",
+  "description": "Migliora la visualizzazione delle previsioni (Piemonte per ora)",
+  "version": "0.0.2",
   "manifest_version": 3,
   "content_scripts": [
     {
